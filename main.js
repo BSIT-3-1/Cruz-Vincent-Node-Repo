@@ -10,4 +10,4 @@ function diamond(l, i = 1) {
     console.log(LINE);
 }
 
-diamond(5)
+diamond(10)
