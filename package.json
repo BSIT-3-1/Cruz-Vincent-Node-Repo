@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "hello world"
+    "test": "hello world",
+    "start": "main.js"
   },
   "repository": {
     "type": "git",
